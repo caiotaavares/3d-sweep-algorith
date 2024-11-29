@@ -1,0 +1,26 @@
+# ninja log v6
+1	340	1732909401595647852	sweep3_autogen/timestamp	cec573b11d332c9d
+1	340	1732909401595647852	sweep3_autogen/mocs_compilation.cpp	cec573b11d332c9d
+1	340	1732909401595647852	/home/caiotavares/Documents/unesp/cg/sweep3/build/Desktop_Qt_6_8_0-Debug/sweep3_autogen/timestamp	cec573b11d332c9d
+341	12986	1732909401599647837	CMakeFiles/sweep3.dir/sweep3_autogen/mocs_compilation.cpp.o	692d2cb2be3cdc43
+341	13765	1732909401599647837	CMakeFiles/sweep3.dir/mainwindow.cpp.o	c9d018a546fe9741
+1	340	1732909401595647852	/home/caiotavares/Documents/unesp/cg/sweep3/build/Desktop_Qt_6_8_0-Debug/sweep3_autogen/mocs_compilation.cpp	cec573b11d332c9d
+341	8444	1732909401599647837	CMakeFiles/sweep3.dir/zbuffer.cpp.o	63ebeda1112f0f33
+341	10788	1732909401599647837	CMakeFiles/sweep3.dir/sweep.cpp.o	33b8f9b6ae13fc74
+341	11589	1732909401599647837	CMakeFiles/sweep3.dir/main.cpp.o	c91117023f2a40c3
+341	13169	1732909401599647837	CMakeFiles/sweep3.dir/canvas.cpp.o	9dbbf4c89d224268
+6	40	1732909457563765456	sweep3_autogen/timestamp	cec573b11d332c9d
+6	40	1732909457563765456	sweep3_autogen/mocs_compilation.cpp	cec573b11d332c9d
+6	40	1732909457563765456	/home/caiotavares/Documents/unesp/cg/sweep3/build/Desktop_Qt_6_8_0-Debug/sweep3_autogen/timestamp	cec573b11d332c9d
+6	40	1732909457563765456	/home/caiotavares/Documents/unesp/cg/sweep3/build/Desktop_Qt_6_8_0-Debug/sweep3_autogen/mocs_compilation.cpp	cec573b11d332c9d
+4	489	1732909810881954335	sweep3_autogen/timestamp	cec573b11d332c9d
+4	489	1732909810881954335	sweep3_autogen/mocs_compilation.cpp	cec573b11d332c9d
+4	489	1732909810881954335	/home/caiotavares/Documents/unesp/cg/sweep3/build/Desktop_Qt_6_8_0-Debug/sweep3_autogen/timestamp	cec573b11d332c9d
+4	489	1732909810881954335	/home/caiotavares/Documents/unesp/cg/sweep3/build/Desktop_Qt_6_8_0-Debug/sweep3_autogen/mocs_compilation.cpp	cec573b11d332c9d
+491	9736	1732909810889954674	CMakeFiles/sweep3.dir/sweep.cpp.o	33b8f9b6ae13fc74
+491	10678	1732909810889954674	CMakeFiles/sweep3.dir/canvas.cpp.o	9dbbf4c89d224268
+491	10886	1732909810889954674	CMakeFiles/sweep3.dir/zbuffer.cpp.o	63ebeda1112f0f33
+490	12220	1732909810889954674	CMakeFiles/sweep3.dir/main.cpp.o	c91117023f2a40c3
+490	13283	1732909810889954674	CMakeFiles/sweep3.dir/mainwindow.cpp.o	c9d018a546fe9741
+490	13643	1732909810889954674	CMakeFiles/sweep3.dir/sweep3_autogen/mocs_compilation.cpp.o	692d2cb2be3cdc43
+13643	13914	1732909824042515340	sweep3	3aafc6373f9a4ade
